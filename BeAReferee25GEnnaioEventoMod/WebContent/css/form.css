@@ -1,0 +1,5 @@
+/* label underline focus color */
+   .input-field input[type=text]: input-filed col s6 {
+     border-bottom: 1px solid #000;
+     box-shadow: 0 1px 0 0 #000;
+   }
